@@ -2,7 +2,7 @@
 
 ## 📋 Descripción del proyecto
 
-Este proyecto corresponde a un trabajo desarrollado para el ramo *Fullstack II, cursado en **Duoc UC, sede San Joaquín, bajo la dirección del docente **Guillermo Vitacura*.
+Este proyecto corresponde a un trabajo desarrollado para el ramo *Fullstack II, cursado en **Duoc UC, sede San Joaquín, bajo la dirección del docente **Guillermo Villacura*.
 
 *Pastelería 1000 Sabores* es una reconocida pastelería chilena que celebra su *50.º aniversario* como referente en la repostería nacional. La pastelería es conocida por su participación en un *récord Guinness en 1995*, cuando colaboró en la creación de la torta más grande del mundo.
 
@@ -48,7 +48,7 @@ El catálogo de la pastelería contempla las siguientes categorías:
 *Institución:* Duoc UC  
 *Sede:* San Joaquín  
 *Ramo:* Fullstack II  
-*Docente:* Guillermo Vitacura  
+*Docente:* Guillermo Villacura
 *Grupo:* 5
 
 ## ▶️ Cómo ejecutar (versión React)
